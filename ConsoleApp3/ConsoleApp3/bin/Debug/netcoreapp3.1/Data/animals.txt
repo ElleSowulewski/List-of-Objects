@@ -1,0 +1,4 @@
+chinchilla,8,True,herbivore
+quail,1,False,omnivore
+snake,5,False,carnivore
+cat,1,True,carnivore
